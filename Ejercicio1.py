@@ -1,3 +1,5 @@
+# Escribir una clase en python que convierta un número entero a número romano (del 1 al 10)
+
 class NumeroRomano():
     def __init__(self, numeroEntero):
         self.numeroEntero = numeroEntero
